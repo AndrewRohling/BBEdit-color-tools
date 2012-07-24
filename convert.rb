@@ -2,7 +2,7 @@ require 'plist'
 
 bbcolors = Plist::parse_xml("2AV3.bbcolors")
 
-# test
+# testing
 
 bbcolors.each do |name, value|
 
